@@ -36,4 +36,3 @@ All endpoints from `openapi.yaml` are implemented in `app/main.py`:
 - `GET /analytics/departments/{department}/trend`
 - `GET /admin/explain/{endpoint}`
 
-Nothing is missing.
